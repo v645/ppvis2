@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="com.company.TableInfo">
+  <void property="table">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>36</int>
+      </void>
+      <void property="name">
+       <string>FirstMan</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject" id="TableObject0">
+      <void property="group">
+       <int>59</int>
+      </void>
+      <void property="name">
+       <string>Second REcord 1</string>
+      </void>
+      <void property="workInSemestr">
+       <void index="7">
+        <int>99</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject" id="TableObject1">
+      <void property="group">
+       <int>56</int>
+      </void>
+      <void property="name">
+       <string>REc3</string>
+      </void>
+      <void property="workInSemestr">
+       <void index="4">
+        <int>7777</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject" id="TableObject2">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+      <void property="workInSemestr">
+       <void index="5">
+        <int>88</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.company.TableObject">
+      <void property="group">
+       <int>50</int>
+      </void>
+      <void property="name">
+       <string>name</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
