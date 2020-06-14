@@ -9,7 +9,7 @@
        <int>36</int>
       </void>
       <void property="name">
-       <string>FirstMan</string>
+       <string>Nick Ross</string>
       </void>
      </object>
     </void>
@@ -19,7 +19,7 @@
        <int>59</int>
       </void>
       <void property="name">
-       <string>Second REcord 1</string>
+       <string>Nick Ross jr</string>
       </void>
       <void property="workInSemestr">
        <void index="7">
@@ -34,7 +34,7 @@
        <int>56</int>
       </void>
       <void property="name">
-       <string>REc3</string>
+       <string>Nick The Third</string>
       </void>
       <void property="workInSemestr">
        <void index="4">
@@ -49,7 +49,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Rick Robes</string>
       </void>
       <void property="workInSemestr">
        <void index="5">
@@ -64,7 +64,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Ronald Jones</string>
       </void>
      </object>
     </void>
@@ -74,7 +74,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Selevic Kentimson</string>
       </void>
      </object>
     </void>
@@ -84,7 +84,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Joanes Schenis</string>
       </void>
      </object>
     </void>
@@ -94,7 +94,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Austin Carol</string>
       </void>
      </object>
     </void>
@@ -104,7 +104,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Ken Gonsales</string>
       </void>
      </object>
     </void>
@@ -114,7 +114,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Pablo Boricci</string>
       </void>
      </object>
     </void>
@@ -124,7 +124,7 @@
        <int>50</int>
       </void>
       <void property="name">
-       <string>name</string>
+       <string>Len Houi</string>
       </void>
      </object>
     </void>
